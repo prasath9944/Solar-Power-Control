@@ -7,7 +7,7 @@ import os
 
 @dataclass
 class EnvironmentVariable:
-    mongo_db_url:str = os.getenv("MONGO_DB_URL")
+    mongo_db_url:str = "mongodb+srv://prasathkkps:Luci1108@cluster0.ldqcx.mongodb.net/?retryWrites=true&w=majority"
 
 
 
