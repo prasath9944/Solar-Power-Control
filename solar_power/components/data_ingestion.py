@@ -25,6 +25,7 @@ class DataIngestion:
                 collection_name=self.data_ingestion_config.collection_name)
 
             logging.info("Save data in feature store")
+            df.drop(['Day of Year', 'Year', 'Month', 'Day'],axis=1,inplace=True)
             
             #Save data in feature store
             logging.info("Create feature store folder if not available")

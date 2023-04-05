@@ -2,7 +2,7 @@ import pymongo
 import pandas as pd
 import json
 # Provide the mongodb localhost url to connect python to mongodb.
-client = pymongo.MongoClient("mongodb+srv://prasathkkps:Luci1108@cluster0.ldqcx.mongodb.net/?retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb+srv://prasathk:Luci1108@cluster0.n634yqn.mongodb.net/?retryWrites=true&w=majority")
 
 DATA_FILE_PATH="solar.csv"
 DATABASE_NAME="solar"

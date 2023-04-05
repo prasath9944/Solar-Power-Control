@@ -10,7 +10,7 @@ from solar_power.entity import artifact_entity
 from solar_power.logger import logging
 import os,sys
 
-def start_training_pipeline():
+def start_training_pipeline()->bool:
     try:
         training_pipeline_config = config_entity.TrainingPipelineConfig()
         #data ingestion
@@ -49,5 +49,7 @@ def start_training_pipeline():
         model_pusher_config=config_entity.ModelPusherConfig(training_pipeline_config=training_pipeline_config)
         model_pusher=ModelPusher(model_pusher_config=model_pusher_config,data_transformation_artifact=data_transformation_artifact,model_trainer_artifact=model_trainer_artifact)
         model_pusher_artifact=model_pusher.initiate_model_pusher()
+        
+        return True
     except Exception as e:
         raise SolarException(e,sys)

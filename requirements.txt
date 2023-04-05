@@ -19,4 +19,5 @@ xgboost==1.6.2
 pandas
 PyYAML
 scikit-learn
+serial
 -e .
