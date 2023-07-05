@@ -16,6 +16,7 @@ and comparison of algorithms are done based on their performance metrics like
 accuracy MAE, MSE, R2
 </p>
 <br>
+<li><a href="https://drive.google.com/drive/u/0/folders/1xXiA2ZZnRbCktuJOSe3IpRCJ-sDeYbmF">Working Model</a>
 <li><a href="https://drive.google.com/drive/u/0/folders/1uWprkZhibqmvzk8EyxwJGOyF2rv3wGK9">Project Details</a></li>
 <li><a href="https://drive.google.com/drive/u/0/folders/1uWprkZhibqmvzk8EyxwJGOyF2rv3wGK9">High Level Documentation</a></li>
 <li><a href="https://www.kaggle.com/datasets/anikannal/solar-power-generation-data">Dataset</a></li>
