@@ -15,10 +15,6 @@ and comparison of algorithms are done based on their performance metrics like
 accuracy MAE, MSE, R2
 <br>
 <hr>
-<h2>Block Diagram</h2>
-<img src="https://github.com/prasath9944/Solar-Power-Control/blob/main/templates/readme_files/Block_Diagram.png"\>
-<br>
-<hr>
-<h2>Proposed Model</h2>
-<img scr="https://github.com/prasath9944/Solar-Power-Control/blob/main/templates/readme_files/Proposed_Model.png"\>
+<h2>Hardware Block Diagram</h2>
+<img src="https://github.com/prasath9944/Solar-Power-Control/blob/main/templates/readme_files/Hardware_Block_Diagram.png">
 <br>
