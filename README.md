@@ -28,3 +28,7 @@ based on the hardware and user inputs the predicted power is displayed in the LC
 display. It checks whether necessary power is sufficient to drive the solar power or
 it needs to change it supply to AC through relay tripping.
 </p>
+<br>
+<hr>
+<h2>System Architecture</h2>
+<img src="https://github.com/prasath9944/Solar-Power-Control/blob/main/templates/readme_files/System_Architecture.png">
