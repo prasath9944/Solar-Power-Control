@@ -16,7 +16,7 @@ accuracy MAE, MSE, R2
 <br>
 <hr>
 <h2>Block Diagram Of Hardware</h2>
-<img scr="https://github.com/prasath9944/Solar-Power-Control/blob/main/templates/readme_files/Hardware_Block_Diagram.png">
+<img scr="https://raw.githubusercontent.com/prasath9944/Solar-Power-Control/main/templates/readme_files/Hardware_Block_Diagram.png">
 <br>
 <hr>
 <h2>Block Diagram</h2>
