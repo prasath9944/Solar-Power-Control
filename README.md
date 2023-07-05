@@ -32,3 +32,12 @@ it needs to change it supply to AC through relay tripping.
 <hr>
 <h2>System Architecture</h2>
 <img src="https://github.com/prasath9944/Solar-Power-Control/blob/main/templates/readme_files/System_Architecture.png">
+<p>The User gives the input information on the UI design and the hardware
+inputs are given through controllers-based prediction. The System
+Architecture is shown Below</p>
+<br>
+<hr>
+<h2>Proposed Model</h2>
+<img src="https://github.com/prasath9944/Solar-Power-Control/blob/main/templates/readme_files/Proposed_Model.png">
+<br>
+<hr>
