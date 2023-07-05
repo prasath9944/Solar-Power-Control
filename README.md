@@ -13,3 +13,6 @@ implemented. The data is visualised for better understanding of the features and
 based on that a classification model is built by using machine learning algorithm 
 and comparison of algorithms are done based on their performance metrics like 
 accuracy MAE, MSE, R2
+<br>
+<hr>
+<img src="https://github.com/prasath9944/Solar-Power-Control/blob/main/templates/readme_files/Block_Diagram.png">
