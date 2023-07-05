@@ -16,6 +16,9 @@ and comparison of algorithms are done based on their performance metrics like
 accuracy MAE, MSE, R2
 </p>
 <br>
+<li><a href="https://drive.google.com/drive/u/0/folders/1uWprkZhibqmvzk8EyxwJGOyF2rv3wGK9">Project Details</a></li>
+<li><a href="https://drive.google.com/drive/u/0/folders/1uWprkZhibqmvzk8EyxwJGOyF2rv3wGK9">High Level Documentation</a></li>
+<li><a href="https://www.kaggle.com/datasets/anikannal/solar-power-generation-data">Dataset</a></li>
 <hr>
 <h2>Hardware Block Diagram</h2>
 <img src="https://github.com/prasath9944/Solar-Power-Control/blob/main/templates/readme_files/Hardware_Block_Diagram.png">
@@ -45,5 +48,3 @@ conditions.Finally, it highlights some observations on future research issues, c
 needs.</p>
 <br>
 <hr>
-<h2>User Interface</h2>
-<img scr="https://github.com/prasath9944/Solar-Power-Control/blob/main/templates/readme_files/User_Interface.png">
