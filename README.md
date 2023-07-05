@@ -14,7 +14,6 @@ based on that a classification model is built by using machine learning algorith
 and comparison of algorithms are done based on their performance metrics like 
 accuracy MAE, MSE, R2
 <br>
-<br>
 <hr>
 <h2>Block Diagram Of Hardware</h2>
 <img scr="https://github.com/prasath9944/Solar-Power-Control/blob/main/templates/readme_files/Hardware_Block_Diagram.png">
