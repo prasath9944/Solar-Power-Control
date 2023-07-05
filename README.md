@@ -39,5 +39,11 @@ Architecture is shown Below</p>
 <hr>
 <h2>Proposed Model</h2>
 <img src="https://github.com/prasath9944/Solar-Power-Control/blob/main/templates/readme_files/Proposed_Model.png">
+<p>These reports are to the investigation of applicability of machine learning
+techniques for solar power generation total power yield prediction in operational
+conditions.Finally, it highlights some observations on future research issues, challenges, and
+needs.</p>
 <br>
 <hr>
+<h2>User Interface</h2>
+<img scr="https://github.com/prasath9944/Solar-Power-Control/blob/main/templates/readme_files/User_Interface.png">
